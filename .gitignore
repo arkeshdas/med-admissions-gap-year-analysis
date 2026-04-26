@@ -1,0 +1,44 @@
+# -------------------------
+# OS files
+# -------------------------
+.DS_Store
+Thumbs.db
+
+# -------------------------
+# Python
+# -------------------------
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Environment variables
+.env
+
+# -------------------------
+# Jupyter
+# -------------------------
+.ipynb_checkpoints/
+
+# -------------------------
+# IDEs / Editors
+# -------------------------
+.vscode/
+.idea/
+
+# -------------------------
+# Logs / temp files
+# -------------------------
+*.log
+*.tmp
+
+# -------------------------
+# Data (private / large)
+# -------------------------
+data/private/
+data/raw_private/
